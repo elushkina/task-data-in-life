@@ -1,0 +1,13 @@
+.navbar {
+    flex-basis: 300px;
+}
+
+.navbar li {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.navbar li:hover {
+    background-color: rgba(193, 193, 193, 0.58);
+}
